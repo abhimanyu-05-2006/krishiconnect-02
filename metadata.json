@@ -1,0 +1,6 @@
+{
+  "name": "KrishiConnect",
+  "description": "AI-Powered Direct Farmer-to-Consumer AgriTech Marketplace connecting farmers directly with consumers, retailers, and restaurants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

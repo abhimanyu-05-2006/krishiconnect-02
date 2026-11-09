@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for KrishiConnect Stakeholder Login Gateway with role-based tabs, OTP authentication, and multi-stakeholder KYC verification (Farmer Aadhaar/Khasra, Retailer GSTIN/FSSAI, Delivery DL/RC, Consumer Mobile OTP).",
+  "updatedAt": "2026-11-06T07:09:27.251738490Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
